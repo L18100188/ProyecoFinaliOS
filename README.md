@@ -1,7 +1,7 @@
 # ProyecoFinaliOS
 **Instituto Tecnologico de Nuevo Laredo**
 
-**Materia: Desarollo ISC**
+**Materia: Desarollo iOS**
 
 **Proyecto Final: Agenda ISC**
 
